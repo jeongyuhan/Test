@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;sql활용.xml&apos; to &apos;sql_content/src&apos;&#x0D;&#x0A;- Original project: &apos;ServerProgram&apos;&#x0D;&#x0A;- Destination element: &apos;sql_content/src&apos;&#x0D;&#x0A;- Original element: &apos;sql활용.xml&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" destination="=sql_content/src" element1="sql활용.xml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1628210106532" units="0" version="1.0"/>
+</session>
